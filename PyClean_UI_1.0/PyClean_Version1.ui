@@ -27,7 +27,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="Test.qrc">:/BG/PyClean 1_1.png</pixmap>
+     <pixmap resource="C:/Users/Rgaming98BW/Desktop/PyClean_UI_1.0/Test.qrc">:/BG/PyClean 1_2.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -392,7 +392,7 @@
   </action>
  </widget>
  <resources>
-  <include location="Test.qrc"/>
+  <include location="C:/Users/Rgaming98BW/Desktop/PyClean_UI_1.0/Test.qrc"/>
  </resources>
  <connections/>
 </ui>
