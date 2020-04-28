@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="BG">
+    <file>PyClean 1_2.png</file>
+    <file>PyClean 1_1.png</file>
+    <file>PyClean 1.png</file>
+  </qresource>
+</RCC>
